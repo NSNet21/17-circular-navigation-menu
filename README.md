@@ -1,4 +1,4 @@
-# Circular Navigation Menu
+# 💻 Circular Navigation Menu
 
 A **clean circular navigation menu** with a smooth toggle animation and dynamic transition timing.
 Built with **HTML**, **CSS**, and **Vanilla JavaScript**, this version focuses on **motion flow** and **timing synchronization** — no indicator, just pure circular geometry and fluid animation.
